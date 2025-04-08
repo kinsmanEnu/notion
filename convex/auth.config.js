@@ -1,7 +1,7 @@
 export default {
   providers:[
     {
-      domain:'https://immune-starling-60.clerk.accounts.dev',
+      domain: "https://flowing-beetle-15.clerk.accounts.dev",
       applicationID:"convex", 
     }
   ]
